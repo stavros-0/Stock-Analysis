@@ -1,2 +1,2 @@
 # HTZ
-It was announced that Ackman's Pershing Square Capital Management bought 12.27 million shares of HTZ on 4/16/25. This analysis is to figure out what Ackman may have found with HTZ. The company went through bankruptcy in 2021 after betting big on electric vehicles.  
+It was announced that Ackman's Pershing Square Capital Management bought 12.27 million shares of HTZ on 4/16/25. This analysis is to figure out what Ackman may have found with HTZ. The company went through bankruptcy in 2021 after betting big on electric vehicles. Ackman believes that with the tariffs will benefit the used car market greatly. Hertz owns a fleet of cars worth $1.2B, and with less cars imported to the US, this could drive up the valuation of the cars significantly. 
